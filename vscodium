@@ -1,0 +1,11 @@
+vscodium product.json to point to vscode Marketplace
+
+"extensionsGallery": {
+  "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+  "itemUrl": "https://marketplace.visualstudio.com/items"
+},
+
+
+The Product.json path
+/usr/share/codium/resources/app/product.json
+
