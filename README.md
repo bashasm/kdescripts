@@ -1,6 +1,11 @@
 # kdescripts
 kde scripts
 
+Note: 
+If for some reason title bar, icons are missng
+
+Install kwin (along with `kwin-x11` will come) in package manager
+
 
 For battery, install the below packages
 
