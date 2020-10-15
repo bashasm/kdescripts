@@ -23,4 +23,5 @@ Replace firstDayOfWeek: Qt.locale().firstDayOfWeek with firstDayOfWeek: 1.
 Hash sum mismatch
 
 sudo rm -rf /var/lib/apt/lists/partial
+
 sudo apt-get update -o Acquire::CompressionTypes::Order::=gz
